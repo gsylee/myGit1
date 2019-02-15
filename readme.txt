@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 2019.1.15 Hello, World!.
 Creating a new branch is quick and simple.
+Switched to a new branch 'def'.
